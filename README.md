@@ -2,7 +2,7 @@
 Contain the materials about CXL. 
 
 
-1. [**CXL Introduction**](docs/CXL_Introduction.md): Why CXL and Introduce CXL 1.1, 2.0, 3.0 sepecification. 
+1. [**CXL Introduction**](docs/CXL_Introduction.md): Why CXL and Introduce CXL 1.1, 2.0, 3.0 specification. 
 2. [**CXL-reltaed Works**](docs/CXL_related_works.md): Introduce some current workds about CXL. 
 3. [**CXL Simulation and Setup**](docs/CXL_Sim_Setup.md): Introduce how to simulate CXL-based memory devices and give a sepecific method to setup the simulation environment. 
 4. [**CXL Benchmark**](docs/CXL_Benchmark.md): Run serveral benchmarks under cxl-based memory and hybrid DRAM-CXL-based memory. 
