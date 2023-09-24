@@ -1,5 +1,5 @@
 # CXL-101
-Contain the materials about CXL. 
+Contain some materials about CXL. 
 
 
 1. [**CXL Introduction**](docs/CXL_Introduction.md): Why CXL and Introduce CXL 1.1, 2.0, 3.0 specification. 
